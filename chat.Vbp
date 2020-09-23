@@ -1,0 +1,17 @@
+Form=chat.Frm
+Module=Module1; cstools.bas
+Reference=*\G{BEF6E001-A874-101A-8BBA-00AA00300CAB}#2.0#0#c:\WINDOWS\SYSTEM\OLEPRO32.DLL#Standard OLE Types
+Object={33101C00-75C3-11CF-A8A0-444553540000}#1.0#0; CSWSK32.OCX
+ProjWinSize=152,402,248,215
+ProjWinShow=2
+IconForm="Form1"
+ExeName32="chat.exe"
+Name="Project1"
+HelpContextID="0"
+StartMode=0
+VersionCompatible32="0"
+MajorVer=1
+MinorVer=0
+RevisionVer=0
+AutoIncrementVer=0
+ServerSupportFiles=0
